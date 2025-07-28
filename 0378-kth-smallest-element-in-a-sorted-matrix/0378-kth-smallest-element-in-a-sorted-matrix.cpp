@@ -1,33 +1,36 @@
 class Solution {
+private:
+    int countLessOrEqual(vector<vector<int>> &mat, int mid, int n){
+        int cnt=0 , row = n-1 , col = 0 ;
+        while( row>= 0 && col<n ){
+            if( mat[row][col] <= mid){
+                cnt += row+1 ;
+                col++;
+            }
+            else{
+                row--;
+            }
+        }
+        return cnt ;
+    }
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        
-        priority_queue<pair<int,pair<int,int>> , vector<pair<int,pair<int,int>>> , greater<pair<int,pair<int,int>>> > pq;
         int n=matrix.size();
+        int l=matrix[0][0] , r=matrix[n-1][n-1] ;
         
-        for(int row=0;row<n;row++)
-            pq.push( make_pair( matrix[row][0] , make_pair(row,0) ) );
-            
+        int ans=-1 , mid ;
         
-        pair<int,pair<int,int>> ele ;
-        int i,j;
-        int ans ;
-        
-        
-        while( k-- ){
-            ele=pq.top();
-            pq.pop();
+        while ( l<=r ){
+            mid = l + (r-l) / 2 ;
             
-            ans=ele.first;
-            i=ele.second.first;
-            j=ele.second.second;
+            int cnt = countLessOrEqual(matrix,mid,n);
             
-            if( j+1 < n ){
-                pq.push( make_pair( matrix[i][j+1] , make_pair(i,j+1) ) );
-            }
-            
+            if( cnt >= k ){
+                ans = mid ;
+                r = mid-1;
+            } 
+            else l = mid+1; 
         }
-        
-        return ans;
+        return ans; 
     }
 };
