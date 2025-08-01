@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
