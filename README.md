@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -82,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 ## Math
 |  |
 | ------- |
