@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0355-design-twitter) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
