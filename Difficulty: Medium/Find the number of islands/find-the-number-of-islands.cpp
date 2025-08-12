@@ -11,7 +11,7 @@ class Solution {
                 int newC= j+col;
 
                 if( newR>=0 && newR<n && newC>=0 && newC<m && grid[newR][newC]=='L' && visited[newR][newC]==0 ){
-                    visited[newR][newC] = 1;
+                    // visited[newR][newC] = 1;
                     traversal(grid,visited,newR,newC);
                 }
             }
