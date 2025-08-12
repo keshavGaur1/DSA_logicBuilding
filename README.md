@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
+| [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
