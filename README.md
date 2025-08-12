@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0538-convert-bst-to-greater-tree](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0506-relative-ranks) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -160,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
