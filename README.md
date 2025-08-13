@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
