@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
