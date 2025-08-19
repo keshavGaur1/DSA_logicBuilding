@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0900-reordered-power-of-2) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
