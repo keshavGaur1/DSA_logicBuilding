@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
