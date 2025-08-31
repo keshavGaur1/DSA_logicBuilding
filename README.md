@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
 ## Tree
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0380-insert-delete-getrandom-o1) |
