@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
