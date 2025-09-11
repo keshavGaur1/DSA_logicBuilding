@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
+| [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
