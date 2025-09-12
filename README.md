@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
 | [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3830-find-closest-person) |
 ## Stack
@@ -283,8 +285,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
