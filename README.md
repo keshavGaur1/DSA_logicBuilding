@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
+| [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
+| [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0900-reordered-power-of-2) |
+| [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
