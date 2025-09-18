@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
+| [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -318,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
