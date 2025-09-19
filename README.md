@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
