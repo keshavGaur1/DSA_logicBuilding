@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3226-minimum-number-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3827-implement-router) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0900-reordered-power-of-2) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
