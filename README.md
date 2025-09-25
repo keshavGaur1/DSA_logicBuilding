@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0200-number-of-islands) |
