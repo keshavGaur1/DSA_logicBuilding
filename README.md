@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
+| [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
+| [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 ## Randomized
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2324-find-triangular-sum-of-an-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
