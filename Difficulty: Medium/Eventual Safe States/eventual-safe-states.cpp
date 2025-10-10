@@ -1,52 +1,46 @@
 // User function Template for C++
 
 class Solution {
-     private:
-    bool dfs(int node,vector<int> adj[],vector<int>& visited,
-    vector<int>& pathVisited,vector<int>& safeNodes){
-        visited[node]=1;
-        pathVisited[node]=1;
-        
-        for(auto it: adj[node] ){
-            if( !visited[it] ){
-                // return true if any dfs call finds the cycle
-                if( dfs(it,adj,visited,pathVisited,safeNodes) == true ){
-                    safeNodes[it]=0; // safe node nhi h , agar cycle present hai to
-                    return true;  
-                } 
-            }
-            else{
-                // already visited
-                // if visited from same path , than there is a cycle
-                if( pathVisited[it] == 1 ){
-                    safeNodes[it]=0; // safe node nhi h , agar cycle present hai to
-                    return true ;
-                }
-            }
-        }
-        
-        safeNodes[node]=1; // safe node h , if cycle not present
-        pathVisited[node]=0;
-        return false;
-    }
   public:
     vector<int> eventualSafeNodes(int V, vector<int> adj[]) {
         // code here
-        vector<int> visited(V,0);
-        vector<int> pathVisited(V,0);
-        vector<int> safeNodes(V,0); 
+        vector<int> revAdj[V];
+        vector<int> inDegree(V,0);
         
         for(int i=0;i<V;i++){
-            if( !visited[i] ){
-                dfs(i,adj,visited,pathVisited,safeNodes);
+            // i -> it
+            // it -> i
+            for(auto it : adj[i] ){
+                revAdj[it].push_back(i);
+                inDegree[i]++;
             }
         }
         
-        vector<int> ans ;
+        queue<int> q;
         for(int i=0;i<V;i++){
-            if( safeNodes[i] == 1)
-                ans.push_back(i);
+            if( inDegree[i] == 0 ){
+                q.push(i);
+            }
         }
-        return ans;
+        
+        vector<int> safeNodes ;
+        while( !q.empty() ){
+            int node=q.front();
+            safeNodes.push_back(node);
+            q.pop();
+            
+            // ab iss node ko graph se bhi htana h ,
+            // to iske sabhi neighbour ki in degree 1 se kam ho jayegi
+            for(auto it: revAdj[node]){
+                inDegree[it]--;
+                if( inDegree[it]==0 ){
+                    q.push(it);
+                }    
+            }
+        }
+        
+        sort(safeNodes.begin(),safeNodes.end());
+        
+        return safeNodes;
     }
 };
