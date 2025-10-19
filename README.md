@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 | [3827-implement-router](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2023-design-movie-rental-system) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -331,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
