@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
 ## Randomized
 |  |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
