@@ -1,27 +1,27 @@
 class Solution {
   public:
-    vector<int> topKFrequent(vector<int> &arr, int k) {
-        // Your code here
-        map<int,int>mp;
+  static bool cmp(pair<int,int> a, pair<int,int> b){
+        if(a.second == b.second){
+            return a.first>=b.first;
+        }
+        return a.second>b.second;
+    }
+    
+    vector<int> topKFreq(vector<int> &arr, int k) {
+        // Code here
         int n = arr.size();
-        for(int i=0;i<n;i++){
+        map<int,int> mp;
+        for(int i = 0;i<n;i++){
             mp[arr[i]]++;
         }
-        priority_queue<pair<int,int>>pq;
-        for(auto it:mp){
-            pq.push({it.second,it.first});
+        vector<pair<int,int>> prr(mp.begin(), mp.end());
+        sort(prr.begin(), prr.end(), cmp);
+        
+        vector<int> topk(k);
+        for(int i = 0;i<k;i++){
+            topk[i]=prr[i].first;
         }
-        vector<int>temp;
-        while(pq.size()>0){
-            if(temp.size()==k){
-                break;
-            }
-            else{
-                temp.push_back(pq.top().second);
-                pq.pop();
-            }
-        }
-        return temp;
-
+        
+        return topk;
     }
 };
