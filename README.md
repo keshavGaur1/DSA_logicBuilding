@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Randomized
 |  |
 | ------- |
@@ -405,8 +407,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
