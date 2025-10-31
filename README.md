@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0820-find-eventual-safe-states) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Randomized
 |  |
@@ -426,5 +428,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
