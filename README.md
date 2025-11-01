@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3827-implement-router) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0355-design-twitter) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
