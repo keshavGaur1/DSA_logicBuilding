@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
