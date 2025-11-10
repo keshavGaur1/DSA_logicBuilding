@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1917-maximum-average-pass-ratio) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
 |  |
 | ------- |
