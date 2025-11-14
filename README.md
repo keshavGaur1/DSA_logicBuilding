@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0048-rotate-image) |
+| [0057-insert-interval](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0130-surrounded-regions) |
