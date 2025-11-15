@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0474-ones-and-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
