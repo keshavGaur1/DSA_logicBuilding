@@ -1,48 +1,41 @@
-// User function Template for C++
-
 class Solution {
   public:
-    int countPaths(int n, vector<vector<int>>& roads) {
+    int countPaths(int V, vector<vector<int>>& edges) {
         // code here
-        vector<vector< pair<int,int> >> adj(n);
-        for(auto i:roads){
-            adj[i[0]].push_back({i[1],i[2]});
-            adj[i[1]].push_back({i[0],i[2]});
+        const long long MOD = 1e9 + 7;
+        vector<vector<pair<int,int>>> adj(V);
+        for (auto &e : edges) {
+            int u = e[0], v = e[1], w = e[2];
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, w});
         }
-        
-        priority_queue< pair<long long,int> , vector<pair<long long,int>> , greater<pair<long long,int>> > pq;
-        // {dist,node}
-        vector<long long> dist(n,LLONG_MAX);
-        vector<long long> ways(n,0);
-        
-        pq.push({0,0});
-        dist[0]=0;
-        ways[0]=1;
-        
-        int mod = (int)(1e9+7);
-        
-        while(!pq.empty() ){
-            long long minDist = pq.top().first;
-            int u = pq.top().second;
+        vector<long long> dist(V, LLONG_MAX);
+        vector<long long> ways(V, 0);
+        priority_queue<
+            pair<long long,int>,
+            vector<pair<long long,int>>,
+            greater<pair<long long,int>>
+        > pq;
+        dist[0] = 0;
+        ways[0] = 1;
+        pq.push({0, 0});
+        while (!pq.empty()) {
+            auto [d, u] = pq.top();
             pq.pop();
-            
-             // skip stale entry
-            if (minDist > dist[u]) continue;
-            
-            for(auto it:adj[u]){
-                int v=it.first , wt=it.second;
-                // we have reached min distancr for the first time
-                if(minDist+wt < dist[v] ){
-                    dist[v]=minDist+wt;
-                    pq.push({minDist+wt,v});
-                    ways[v]=ways[u];
+            if (d > dist[u]) continue;
+            for (auto &p : adj[u]) {
+                int v = p.first;
+                long long w = p.second;
+                if (dist[v] > dist[u] + w) {
+                    dist[v] = dist[u] + w;
+                    ways[v] = ways[u];
+                    pq.push({dist[v], v});
                 }
-                else if( minDist+wt == dist[v] ){ // we already reached this distance from another paths
-                    ways[v] = (ways[v]+ways[u])%mod ;
+                else if (dist[v] == dist[u] + w) {
+                    ways[v] = (ways[v] + ways[u]) % MOD;
                 }
             }
         }
-        
-        return ways[n-1] % mod ;
+        return ways[V - 1] % MOD;
     }
 };
