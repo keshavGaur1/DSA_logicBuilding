@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0130-surrounded-regions) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0380-insert-delete-getrandom-o1) |
