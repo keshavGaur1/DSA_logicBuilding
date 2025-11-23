@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2689-rearranging-fruits](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1917-maximum-average-pass-ratio) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
