@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3797-design-spreadsheet) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3830-find-closest-person) |
 ## Stack
