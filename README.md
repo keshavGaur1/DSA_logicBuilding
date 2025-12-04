@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2211-count-collisions-on-a-road](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3462-vowels-game-in-a-string) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1642-water-bottles) |
+| [2211-count-collisions-on-a-road](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1628-count-submatrices-with-all-ones) |
+| [2211-count-collisions-on-a-road](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
