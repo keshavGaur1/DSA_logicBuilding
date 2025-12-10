@@ -477,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
