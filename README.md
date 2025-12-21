@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0474-ones-and-zeroes) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2211-count-collisions-on-a-road](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/2211-count-collisions-on-a-road) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1036-rotting-oranges) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1834-minimum-number-of-people-to-teach) |
