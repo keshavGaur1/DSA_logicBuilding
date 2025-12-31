@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0166-fraction-to-recurring-decimal) |
+| [0459-repeated-substring-pattern](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0474-ones-and-zeroes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
@@ -492,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0196-delete-duplicate-emails) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
