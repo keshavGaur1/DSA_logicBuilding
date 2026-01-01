@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0542-01-matrix) |
+| [0879-profitable-schemes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0879-profitable-schemes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0876-hand-of-straights) |
+| [0879-profitable-schemes](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0879-profitable-schemes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/keshavGaur1/DSA_logicBuilding/tree/master/1018-largest-perimeter-triangle) |
