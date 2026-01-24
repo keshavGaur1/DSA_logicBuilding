@@ -2,42 +2,38 @@
 
 class Solution {
     private:
-    void dfs(int row,int col,vector<vector<int>>& grid,vector<vector<int>>& visited,
-    int baseRow,int baseCol, vector< pair<int,int> >& temp){
-        int n=grid.size() , m=grid[0].size();
-        visited[row][col]=1;
-        temp.push_back( {row-baseRow,col-baseCol} );
+    void dfsStore(int r,int c,vector<vector<int>>& grid,vector<vector<int>>& vis,
+    vector< pair<int,int> >& temp,int baseR,int baseC){
+        int n=grid.size() , m=grid[0].size() ;
         
-        int rowArr[]={-1,0,+1,0} , colArr[]={0,+1,0,-1};
+        vis[r][c]=1;
+        temp.push_back({r-baseR,c-baseC});
         
-        for(int i=0;i<4;i++){
-            int newR=row+rowArr[i];
-            int newC=col+colArr[i];
-            
-            if( newR>=0 && newC>=0 && newR<n && newC<m && grid[newR][newC]==1 
-             && visited[newR][newC]==0 ){
-                dfs(newR,newC,grid,visited,baseRow,baseCol,temp);
-             }
+        int rowArr[]={-1,0,+1,0}, colArr[]={0,+1,0,-1} ;
+        for(int k=0;k<4;k++){
+            int newR=r+rowArr[k] , newC=c+colArr[k];
+            if( (newR<n && newR>=0 && newC<m && newC>=0 ) && grid[newR][newC]==1 && 
+            vis[newR][newC]==0 ){
+                dfsStore(newR,newC,grid,vis,temp,baseR,baseC);
+            }
         }
         
     }
   public:
     int countDistinctIslands(vector<vector<int>>& grid) {
         // code here
-        int n=grid.size() , m=grid[0].size();
-        vector<vector<int>> visited(n,vector<int> (m,0));
+        int n=grid.size() , m=grid[0].size() ;
+        vector<vector<int>> vis(n,vector<int>(m,0));
         
-        set< vector< pair<int,int> > > st;
+        set< vector<pair<int,int>> > st;
         
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                
-                if( grid[i][j]==1 && visited[i][j]==0 ){
-                    vector< pair<int,int> > temp;
-                    dfs(i,j,grid,visited,i,j,temp);
+                if( grid[i][j]==1 && vis[i][j]==0 ){
+                    vector< pair<int,int> > temp ;
+                    dfsStore(i,j,grid,vis,temp,i,j);
                     st.insert(temp);
                 }
-                    
             }
         }
         
